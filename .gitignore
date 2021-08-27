@@ -27,3 +27,6 @@ run/saves/New World/level.dat_old
 run/saves/New World/playerdata/380df991-f603-344c-a090-369bad2a924a.dat_old
 run/saves/New World/serverconfig/forge-server.toml
 run/saves/New World/session.lock
+/runClient.launch
+/runData.launch
+/runServer.launch
