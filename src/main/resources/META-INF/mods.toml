@@ -7,6 +7,7 @@ modId="demonslayer"
 version="1.0"
 displayName="DemonSlayer"
 authors="Instart"
+description="Mode Minecraft ayant pour thème Demon Slayer"
 
 [[dependencies.demonslayer]]
     modId="minecraft"
