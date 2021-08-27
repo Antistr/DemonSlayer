@@ -17,3 +17,13 @@ run/.mixin.out/audit/mixin_implementation_report.txt
 run/usernamecache.json
 run/usercache.json
 run/saves/New World/stats/380df991-f603-344c-a090-369bad2a924a.json
+run/saves/New World/icon.png
+run/.mixin.out/audit/mixin_implementation_report.txt
+run/logs/2021-08-27-1.log.gz
+run/logs/debug-1.log.gz
+*.log
+run/logs/latest.log
+run/saves/New World/level.dat_old
+run/saves/New World/playerdata/380df991-f603-344c-a090-369bad2a924a.dat_old
+run/saves/New World/serverconfig/forge-server.toml
+run/saves/New World/session.lock
