@@ -1,2 +1,19 @@
 /.gradle/
 /build/
+run/logs/2021-08-27-2.log.gz
+run/logs/2021-08-27-1.log.gz
+run/logs/debug-1.log.gz
+run/logs/debug-2.log.gz
+run/logs/latest.log
+run/options.txt
+run/saves/New World/poi/r.-1.0.mca
+run/saves/New World/data/capabilities.dat
+run/.mixin.out/audit/mixin_implementation_report.txt
+*.dat
+*.mca
+*.log
+run/saves/New World/advancements/380df991-f603-344c-a090-369bad2a924a.json
+run/.mixin.out/audit/mixin_implementation_report.txt
+run/usernamecache.json
+run/usercache.json
+run/saves/New World/stats/380df991-f603-344c-a090-369bad2a924a.json
