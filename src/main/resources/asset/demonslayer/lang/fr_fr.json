@@ -1,0 +1,5 @@
+{
+  "item.examplemod.example_item": "Exemple de nom d'item",
+  "block.examplemod.example_block": "Exemple de nom de bloc",
+  "commands.examplemod.examplecommand.error": "Erreur de commande exemple"
+}
